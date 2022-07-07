@@ -1,6 +1,6 @@
 # Financial analysis for emergency and retirement funds
 
-This application provides two financial analysis tools:
+This application provides two financial planning tools:
 
 1: A financial planner for emergencies. Users can visualize their current savings and determine if they have enough reserves for an emergency fund.
 
@@ -21,9 +21,9 @@ Information from the Monte Carlo simulations will answer questions about the use
 * Python MCForecastTools library: for conducting data simulations
 
 ## Usage
-To use this emergency and retirement analysis application simply clone the repository and open the emergency_and_retirement.ipynb script in the Jupyter Lab application.
+To use this emergency and retirement financial planning application simply clone the repository and open the financial_planning_tools.ipynb script in the Jupyter Lab application.
 
-```emergency_and_retirementipynb```
+```financial_planning_tools.ipynb```
 
 ## License
 
